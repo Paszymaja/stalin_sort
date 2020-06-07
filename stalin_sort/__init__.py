@@ -6,4 +6,4 @@ def sort(lst):
         max_val = num
         return num
 
-    return [add_val(x) for x in l if x >= max_val]
+    return [add_val(x) for x in lst if x >= max_val]
