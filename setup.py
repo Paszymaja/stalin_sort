@@ -3,9 +3,7 @@ from setuptools import setup
 setup(name='stalin_sort',
       version='0.1',
       description='Stalin Sort is an efficient sorting algorithm, serving as a systematic method for placing the '
-                  'elements of a random access file or an array in order. Stalin Sort is also know as the best '
-                  'sorting algorithm of all times because of its AMAZING capacity of always ordering an array with an '
-                  'O(n) performance.',
+                  'elements of a random access file or an array in order.',
       url='http://github.com/paszymaja/stalin_sort',
       author='Paszymaja',
       author_email='sprzepiora@hotmail.co.uk',
